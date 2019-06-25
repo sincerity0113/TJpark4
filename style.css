@@ -1,0 +1,13 @@
+.black-top {
+    background-color:black;
+    color:white;
+    text-align: center;
+}
+.story-one {
+    color:blue;    
+}
+.postman {
+    float: left;
+    margin: 20px;
+    font-style: initial;
+}
